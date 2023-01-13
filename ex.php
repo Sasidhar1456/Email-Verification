@@ -1,0 +1,1 @@
+<?php if (isValidEmail($e1)==1){echo "true";}else{echo "false";}?>
